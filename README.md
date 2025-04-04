@@ -80,8 +80,8 @@ Installation Steps
 
 1.Clone the repository:
 ```
-git clone https://github.com/yourusername/FoodieProfileApp.git
-cd FoodieProfileApp
+git clone https://github.com/Codee-anshu/assignmentFleapo.git
+cd assignmentFleapo
 ```
 2.Install dependencies:
 ```
